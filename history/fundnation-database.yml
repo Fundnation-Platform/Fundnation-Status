@@ -1,7 +1,0 @@
-url: https://staging.fundnation.cloud/api/status?check=database
-status: down
-code: 503
-responseTime: 518
-lastUpdated: 2026-06-23T23:22:14.645Z
-startTime: 2026-06-23T21:41:01.893Z
-generator: Upptime <https://github.com/upptime/upptime>
