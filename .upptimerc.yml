@@ -26,6 +26,11 @@ sites:
   - name: FreeCurrency API
     url: https://staging.fundnation.cloud/api/status?check=freecurrency_api
 
+status-website:
+  baseUrl: /Fundnation-Status
+  name: Fundnation Status
+  theme: dark
+
 notifications:
   - type: google-chat
     webhook: $GOOGLE_CHAT_WEBHOOK
