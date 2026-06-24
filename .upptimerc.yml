@@ -1,12 +1,27 @@
 # Change these first
 owner: Fundnation-Platform # Your GitHub organization or username, where this repository lives
-repo: Fundnation-Status # The name of this repository
+repo: Fundnation-Status
 
 sites:
-  - name: Fundnation-Database
+  - name: Fundnation Platform
+    url: https://staging.fundnation.cloud
+  - name: Database
     url: https://staging.fundnation.cloud/api/status?check=database
-status-website:
-  baseUrl: /Fundnation-Status
-  name: Fundnation-Status
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  - name: Storage
+    url: https://staging.fundnation.cloud/api/status?check=storage
+  - name: Bunny Storage
+    url: https://staging.fundnation.cloud/api/status?check=bunny_storage
+  - name: Bunny CDN
+    url: https://staging.fundnation.cloud/api/status?check=bunny_cdn
+  - name: Stripe
+    url: https://staging.fundnation.cloud/api/status?check=stripe
+  - name: Paystack
+    url: https://staging.fundnation.cloud/api/status?check=paystack
+  - name: Mailgun
+    url: https://staging.fundnation.cloud/api/status?check=mailgun
+  - name: SendPulse
+    url: https://staging.fundnation.cloud/api/status?check=sendpulse
+  - name: Zetigon SMS
+    url: https://staging.fundnation.cloud/api/status?check=zetigon_sms
+  - name: FreeCurrency API
+    url: https://staging.fundnation.cloud/api/status?check=freecurrency_api
