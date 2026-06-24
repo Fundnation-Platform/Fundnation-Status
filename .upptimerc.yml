@@ -25,3 +25,7 @@ sites:
     url: https://staging.fundnation.cloud/api/status?check=zetigon_sms
   - name: FreeCurrency API
     url: https://staging.fundnation.cloud/api/status?check=freecurrency_api
+
+notifications:
+  - type: google-chat
+    webhook: $GOOGLE_CHAT_WEBHOOK
