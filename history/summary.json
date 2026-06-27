@@ -150,19 +150,19 @@
     "url": "https://staging.fundnation.cloud/api/status?check=sendpulse",
     "icon": "https://icons.duckduckgo.com/ip3/staging.fundnation.cloud.ico",
     "slug": "send-pulse",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1222,
-    "timeDay": 3087,
-    "timeWeek": 1222,
-    "timeMonth": 1222,
-    "timeYear": 1222,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1117,
+    "timeDay": 2185,
+    "timeWeek": 1117,
+    "timeMonth": 1117,
+    "timeYear": 1117,
     "dailyMinutesDown": {
-      "2026-06-27": 0
+      "2026-06-27": 7
     }
   },
   {
