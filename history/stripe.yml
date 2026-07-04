@@ -1,7 +1,7 @@
 url: https://staging.fundnation.cloud/api/status?check=stripe
 status: up
 code: 200
-responseTime: 478
-lastUpdated: 2026-07-03T23:53:40.861Z
+responseTime: 578
+lastUpdated: 2026-07-04T23:50:42.126Z
 startTime: 2026-06-24T05:24:37.996Z
 generator: Upptime <https://github.com/upptime/upptime>
