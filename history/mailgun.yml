@@ -1,7 +1,7 @@
 url: https://staging.fundnation.cloud/api/status?check=mailgun
 status: up
 code: 200
-responseTime: 744
-lastUpdated: 2026-07-09T23:55:57.158Z
+responseTime: 620
+lastUpdated: 2026-07-10T23:44:47.431Z
 startTime: 2026-06-24T05:24:39.785Z
 generator: Upptime <https://github.com/upptime/upptime>
