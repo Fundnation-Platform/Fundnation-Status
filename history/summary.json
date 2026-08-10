@@ -4,18 +4,20 @@
     "url": "https://staging.fundnation.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/staging.fundnation.cloud.ico",
     "slug": "fundnation-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1254,
-    "timeDay": 875,
-    "timeWeek": 948,
-    "timeMonth": 1171,
-    "timeYear": 1254,
-    "dailyMinutesDown": {}
+    "time": 1244,
+    "timeDay": 809,
+    "timeWeek": 922,
+    "timeMonth": 1158,
+    "timeYear": 1244,
+    "dailyMinutesDown": {
+      "2026-08-10": 0
+    }
   },
   {
     "name": "Database",
