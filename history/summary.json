@@ -4,21 +4,21 @@
     "url": "https://staging.fundnation.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/staging.fundnation.cloud.ico",
     "slug": "fundnation-platform",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 1399,
-    "timeDay": 1081,
-    "timeWeek": 1360,
-    "timeMonth": 1494,
-    "timeYear": 1399,
+    "time": 1398,
+    "timeDay": 1158,
+    "timeWeek": 1355,
+    "timeMonth": 1488,
+    "timeYear": 1398,
     "dailyMinutesDown": {
       "2026-08-10": 5,
       "2026-09-19": 5,
-      "2026-10-07": 17
+      "2026-10-07": 20
     }
   },
   {
@@ -26,20 +26,20 @@
     "url": "https://staging.fundnation.cloud/api/status?check=database",
     "icon": "https://icons.duckduckgo.com/ip3/staging.fundnation.cloud.ico",
     "slug": "database",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.84%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.91%",
     "time": 417,
-    "timeDay": 427,
-    "timeWeek": 412,
-    "timeMonth": 406,
+    "timeDay": 400,
+    "timeWeek": 405,
+    "timeMonth": 404,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2026-06-24": 110,
-      "2026-10-07": 16
+      "2026-10-07": 20
     }
   },
   {
@@ -47,19 +47,19 @@
     "url": "https://staging.fundnation.cloud/api/status?check=storage",
     "icon": "https://icons.duckduckgo.com/ip3/staging.fundnation.cloud.ico",
     "slug": "storage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 425,
-    "timeDay": 414,
-    "timeWeek": 395,
-    "timeMonth": 477,
-    "timeYear": 425,
+    "time": 424,
+    "timeDay": 404,
+    "timeWeek": 394,
+    "timeMonth": 474,
+    "timeYear": 424,
     "dailyMinutesDown": {
-      "2026-10-07": 16
+      "2026-10-07": 19
     }
   },
   {
@@ -67,19 +67,19 @@
     "url": "https://staging.fundnation.cloud/api/status?check=bunny_storage",
     "icon": "https://icons.duckduckgo.com/ip3/staging.fundnation.cloud.ico",
     "slug": "bunny-storage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 430,
-    "timeDay": 433,
-    "timeWeek": 432,
-    "timeMonth": 431,
-    "timeYear": 430,
+    "time": 429,
+    "timeDay": 415,
+    "timeWeek": 426,
+    "timeMonth": 429,
+    "timeYear": 429,
     "dailyMinutesDown": {
-      "2026-10-07": 16
+      "2026-10-07": 19
     }
   },
   {
@@ -87,19 +87,19 @@
     "url": "https://staging.fundnation.cloud/api/status?check=bunny_cdn",
     "icon": "https://icons.duckduckgo.com/ip3/staging.fundnation.cloud.ico",
     "slug": "bunny-cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 511,
-    "timeDay": 450,
-    "timeWeek": 442,
-    "timeMonth": 468,
-    "timeYear": 511,
+    "time": 510,
+    "timeDay": 436,
+    "timeWeek": 438,
+    "timeMonth": 466,
+    "timeYear": 510,
     "dailyMinutesDown": {
-      "2026-10-07": 16
+      "2026-10-07": 19
     }
   },
   {
@@ -107,19 +107,19 @@
     "url": "https://staging.fundnation.cloud/api/status?check=stripe",
     "icon": "https://icons.duckduckgo.com/ip3/staging.fundnation.cloud.ico",
     "slug": "stripe",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 466,
-    "timeDay": 438,
-    "timeWeek": 452,
+    "timeDay": 445,
+    "timeWeek": 453,
     "timeMonth": 460,
     "timeYear": 466,
     "dailyMinutesDown": {
-      "2026-10-07": 15
+      "2026-10-07": 19
     }
   },
   {
@@ -127,19 +127,19 @@
     "url": "https://staging.fundnation.cloud/api/status?check=paystack",
     "icon": "https://icons.duckduckgo.com/ip3/staging.fundnation.cloud.ico",
     "slug": "paystack",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 444,
-    "timeDay": 452,
-    "timeWeek": 438,
-    "timeMonth": 441,
-    "timeYear": 444,
+    "time": 443,
+    "timeDay": 438,
+    "timeWeek": 435,
+    "timeMonth": 440,
+    "timeYear": 443,
     "dailyMinutesDown": {
-      "2026-10-07": 15
+      "2026-10-07": 19
     }
   },
   {
@@ -171,7 +171,7 @@
     "uptime": "80.13%",
     "uptimeDay": "99.00%",
     "uptimeWeek": "99.86%",
-    "uptimeMonth": "96.47%",
+    "uptimeMonth": "96.48%",
     "uptimeYear": "80.13%",
     "time": 517,
     "timeDay": 409,
