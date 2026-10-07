@@ -1,7 +1,7 @@
 url: https://staging.fundnation.cloud/api/status?check=sendpulse
-status: down
-code: 500
-responseTime: 492
-lastUpdated: 2026-10-07T07:32:43.414Z
+status: up
+code: 200
+responseTime: 354
+lastUpdated: 2026-10-07T07:47:08.891Z
 startTime: 2026-06-24T05:24:40.874Z
 generator: Upptime <https://github.com/upptime/upptime>
