@@ -69,9 +69,9 @@
     "slug": "bunny-storage",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 472,
     "timeDay": 2979,
@@ -80,7 +80,7 @@
     "timeYear": 472,
     "dailyMinutesDown": {
       "2026-10-07": 19,
-      "2026-10-15": 1
+      "2026-10-15": 5
     }
   },
   {
@@ -88,20 +88,20 @@
     "url": "https://staging.fundnation.cloud/api/status?check=bunny_cdn",
     "icon": "https://icons.duckduckgo.com/ip3/staging.fundnation.cloud.ico",
     "slug": "bunny-cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 549,
-    "timeDay": 3018,
-    "timeWeek": 1093,
-    "timeMonth": 623,
+    "timeDay": 2192,
+    "timeWeek": 1031,
+    "timeMonth": 621,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2026-10-07": 19,
-      "2026-10-15": 0
+      "2026-10-15": 4
     }
   },
   {
