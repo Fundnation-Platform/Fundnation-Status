@@ -1,7 +1,7 @@
 url: https://staging.fundnation.cloud/api/status?check=mailgun
 status: down
 code: 404
-responseTime: 384
-lastUpdated: 2026-11-12T03:27:42.686Z
+responseTime: 529
+lastUpdated: 2026-11-13T02:59:54.748Z
 startTime: 2026-06-24T05:24:39.785Z
 generator: Upptime <https://github.com/upptime/upptime>
