@@ -154,11 +154,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.fundnation.cloud.ico",
     "slug": "mailgun",
     "status": "down",
-    "uptime": "79.85%",
+    "uptime": "79.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "2.65%",
-    "uptimeYear": "79.85%",
+    "uptimeMonth": "2.52%",
+    "uptimeYear": "79.83%",
     "time": 629,
     "timeDay": 343,
     "timeWeek": 452,
@@ -166,7 +166,7 @@
     "timeYear": 629,
     "dailyMinutesDown": {
       "2026-10-07": 15,
-      "2026-11-18": 341,
+      "2026-11-18": 395,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -268,20 +268,21 @@
     "url": "https://staging.fundnation.cloud/api/status?check=freecurrency_api",
     "icon": "https://icons.duckduckgo.com/ip3/staging.fundnation.cloud.ico",
     "slug": "free-currency-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 492,
-    "timeDay": 447,
-    "timeWeek": 519,
-    "timeMonth": 653,
-    "timeYear": 492,
+    "time": 491,
+    "timeDay": 380,
+    "timeWeek": 493,
+    "timeMonth": 642,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2026-10-07": 14,
-      "2026-10-27": 5
+      "2026-10-27": 5,
+      "2026-11-18": 0
     }
   }
 ]
