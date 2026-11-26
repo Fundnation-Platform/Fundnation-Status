@@ -30,8 +30,8 @@
     "slug": "database",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.94%",
     "time": 421,
@@ -42,7 +42,7 @@
     "dailyMinutesDown": {
       "2026-06-24": 110,
       "2026-10-07": 20,
-      "2026-11-26": 2
+      "2026-11-26": 3
     }
   },
   {
@@ -52,8 +52,8 @@
     "slug": "storage",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 424,
@@ -63,7 +63,7 @@
     "timeYear": 424,
     "dailyMinutesDown": {
       "2026-10-07": 19,
-      "2026-11-26": 2
+      "2026-11-26": 3
     }
   },
   {
@@ -73,9 +73,9 @@
     "slug": "bunny-storage",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 476,
     "timeDay": 474,
@@ -85,7 +85,7 @@
     "dailyMinutesDown": {
       "2026-10-07": 19,
       "2026-10-15": 10,
-      "2026-11-26": 2
+      "2026-11-26": 3
     }
   },
   {
@@ -95,9 +95,9 @@
     "slug": "bunny-cdn",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.88%",
+    "uptimeDay": "99.83%",
     "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 595,
     "timeDay": 470,
@@ -119,9 +119,9 @@
     "slug": "stripe",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 476,
     "timeDay": 491,
@@ -130,7 +130,7 @@
     "timeYear": 476,
     "dailyMinutesDown": {
       "2026-10-07": 19,
-      "2026-11-26": 1
+      "2026-11-26": 2
     }
   },
   {
@@ -140,8 +140,8 @@
     "slug": "paystack",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 454,
@@ -151,7 +151,7 @@
     "timeYear": 454,
     "dailyMinutesDown": {
       "2026-10-07": 19,
-      "2026-11-26": 1
+      "2026-11-26": 2
     }
   },
   {
@@ -172,7 +172,7 @@
     "timeYear": 619,
     "dailyMinutesDown": {
       "2026-10-07": 15,
-      "2026-11-26": 392,
+      "2026-11-26": 393,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -220,7 +220,7 @@
     "slug": "send-pulse",
     "status": "down",
     "uptime": "86.52%",
-    "uptimeDay": "99.95%",
+    "uptimeDay": "99.90%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.52%",
@@ -265,8 +265,8 @@
     "slug": "zetigon-sms",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 463,
@@ -276,7 +276,7 @@
     "timeYear": 463,
     "dailyMinutesDown": {
       "2026-10-07": 14,
-      "2026-11-26": 0
+      "2026-11-26": 1
     }
   },
   {
@@ -288,7 +288,7 @@
     "uptime": "94.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "73.70%",
+    "uptimeMonth": "73.69%",
     "uptimeYear": "94.83%",
     "time": 488,
     "timeDay": 351,
@@ -298,7 +298,7 @@
     "dailyMinutesDown": {
       "2026-10-07": 14,
       "2026-10-27": 5,
-      "2026-11-26": 392,
+      "2026-11-26": 393,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
