@@ -1,7 +1,7 @@
 url: https://staging.fundnation.cloud/api/status?check=storage
 status: down
 code: 401
-responseTime: 577
-lastUpdated: 2026-11-26T06:29:42.998Z
+responseTime: 364
+lastUpdated: 2026-11-27T04:37:10.219Z
 startTime: 2026-06-24T05:24:35.649Z
 generator: Upptime <https://github.com/upptime/upptime>
