@@ -1,7 +1,7 @@
 url: https://staging.fundnation.cloud/api/status?check=stripe
 status: down
 code: 401
-responseTime: 575
-lastUpdated: 2026-11-26T06:30:32.563Z
+responseTime: 332
+lastUpdated: 2026-11-27T04:37:49.445Z
 startTime: 2026-06-24T05:24:37.996Z
 generator: Upptime <https://github.com/upptime/upptime>
